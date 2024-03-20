@@ -23,5 +23,3 @@ Ce projet se base principalement sur :
 - Nextjs
 - AWS S3
 - quelques packages supplémentaires comme slugify et xss
-
-Ce projet a été mené lors d'un challenge de formation Udemy.
